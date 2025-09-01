@@ -55,3 +55,17 @@ However, any derivative work must preserve the structural integrity and ethical 
 > The Softpunk Foundation is not a brand.  
 > It is a method.  
 > It does not seek followers—only legitimate reciprocation.
+
+---
+
+## 📜 Licensing Framework — Softpunk License (SPL)
+
+All original works under the Softpunk Foundation may be licensed under the **Softpunk License (SPL)**, a framework designed to preserve existential legitimacy, traceability, and user autonomy.
+
+The SPL ensures:
+- **Reciprocal Legitimacy**: Derivative works must uphold the same structural and ethical standards.
+- **Transparency**: Modifications must be documented and attributable.
+- **User Sovereignty**: No hidden dependencies, telemetry, or privilege escalation.
+
+You are encouraged to **review the [Softpunk License (SPL)](./LICENSE-SPL.md)** before using, modifying, or redistributing any work from this foundation.
+
