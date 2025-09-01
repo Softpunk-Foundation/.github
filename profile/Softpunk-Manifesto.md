@@ -1,4 +1,4 @@
-# Softpunk
+# SOFTPUNK
 
 A technological movement for legitimate, traceable software—free of simulacra.
 
