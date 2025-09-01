@@ -1,6 +1,6 @@
 # Softpunk Foundation — Identity & Policy Disclaimer
 
-This repository defines the identity, directives, and operational ethics of the **Softpunk Foundation**. It is aligned with the [Softpunk Manifesto](./MANIFESTO.md) and reflects a commitment to structural legitimacy, traceable implementation, and autonomy from legacy systems and symbolic noise.
+This repository defines the identity, directives, and operational ethics of the **Softpunk Foundation**. It is aligned with the [Softpunk Manifesto](./Softpunk-Manifesto.md) and reflects a commitment to structural legitimacy, traceable implementation, and autonomy from legacy systems and symbolic noise.
 
 ---
 
