@@ -67,5 +67,5 @@ The SPL ensures:
 - **Transparency**: Modifications must be documented and attributable.
 - **User Sovereignty**: No hidden dependencies, telemetry, or privilege escalation.
 
-You are encouraged to **review the [Softpunk License (SPL)](./LICENSE-SPL.md)** before using, modifying, or redistributing any work from this foundation.
+You are encouraged to **review the [Softpunk License (SPL)](./LICENSE-SPL)** before using, modifying, or redistributing any work from this foundation.
 
