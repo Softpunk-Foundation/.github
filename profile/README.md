@@ -60,7 +60,7 @@ However, any derivative work must preserve the structural integrity and ethical 
 
 ## 📜 Licensing Framework — Softpunk License (SPL)
 
-All original works under the Softpunk Foundation may be licensed under the **Softpunk License (SPL)**, a framework designed to preserve existential legitimacy, traceability, and user autonomy.
+All original works under the Softpunk Foundation may be licensed under the **Softpunk License (SPL)**, a framework designed to preserve legitimacy, traceability, and user autonomy.
 
 The SPL ensures:
 - **Reciprocal Legitimacy**: Derivative works must uphold the same structural and ethical standards.
